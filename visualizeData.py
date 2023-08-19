@@ -1,7 +1,6 @@
 # Tìm hiểu và biểu diễn dữ liệu
 
 import pandas as pd
-import numpy as np
 import matplotlib.pyplot as plt
 
 data = pd.read_csv('credit_card.csv')
