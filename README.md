@@ -22,11 +22,11 @@
 #### Các kiểu giao dịch được đề cập trong dữ liệu:
 ![image](https://github.com/akaichi21/OnlinePaymentsFraud/assets/69575272/54356636-bf1c-46bf-b90d-d8dc3dfcafae)
 
-**CASH_OUT: rút tiền**
-**PAYMENT: thanh toán**
-**CASH_IN: gửi tiền**
-**TRANFER: chuyển tiền**
-**DEBIT: ghi nợ**
+- **CASH_OUT: rút tiền**
+- **PAYMENT: thanh toán**
+- **CASH_IN: gửi tiền**
+- **TRANFER: chuyển tiền**
+- **DEBIT: ghi nợ**
 
 #### Biểu đồ thể hiện sự phân bố của các loại giao dịch:
 ![image](https://github.com/akaichi21/OnlinePaymentsFraud/assets/69575272/490543cd-810e-4891-b4ba-886f54e0cea9)
