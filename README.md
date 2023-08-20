@@ -1,6 +1,6 @@
 ## **PHÁT HIỆN GIAN LẬN TRONG CÁC GIAO DỊCH TRỰC TUYẾN**
 
-## Mô tả dữ liệu
+## 1. Mô tả dữ liệu
 
 #### Tải dữ liệu: https://www.kaggle.com/datasets/ealaxi/paysim1
 
@@ -31,5 +31,5 @@
 #### Biểu đồ thể hiện sự phân bố của các loại giao dịch:
 ![image](https://github.com/akaichi21/OnlinePaymentsFraud/assets/69575272/490543cd-810e-4891-b4ba-886f54e0cea9)
 
-## Xây dựng mô hình
+## 2. Xây dựng mô hình
 
